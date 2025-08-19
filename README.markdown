@@ -172,7 +172,8 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/
 ## 📷 Screenshots
 
 *Dashboard View*
-![Dashboard Screenshot](screenshots/dashboard.png)
+![<img width="2529" height="1211" alt="image" src="https://github.com/user-attachments/assets/645b9eb4-f8a6-4f41-b738-7a227dbc7652" />
+)
 
 *Forecasting Results*
 ![Forecasting Screenshot](screenshots/forecasting.png)
