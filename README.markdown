@@ -172,10 +172,12 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/
 ## 📷 Screenshots
 
 *Dashboard View*
-![<img width="2529" height="1211" alt="image" src="https://github.com/user-attachments/assets/645b9eb4-f8a6-4f41-b738-7a227dbc7652" />
-)
+<img width="2523" height="848" alt="image" src="https://github.com/user-attachments/assets/92077fd8-9ce0-4fe6-ab84-bd2cf645b812" />
+
+
 
 *Forecasting Results*
-![Forecasting Screenshot](screenshots/forecasting.png)
+<img width="2529" height="1211" alt="image" src="https://github.com/user-attachments/assets/a4cc1beb-532e-406d-94fa-daf3ed81e5a3" />
+
 
 ---
